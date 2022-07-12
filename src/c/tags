@@ -1,0 +1,474 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	C:/Users/Douman/data/repos/rust/rpi_ws281x-sys/src/c/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/c1ca3d81/
+ARRAY_SIZE	./main.c	/^#define ARRAY_SIZE(/;"	d	file:
+Applied patches	./README.md	/^## Applied patches$/;"	s
+BUS_TO_PHYS	./ws2811.c	/^#define BUS_TO_PHYS(/;"	d	file:
+CM_CLK_CTL_BUSY	./clk.h	/^#define CM_CLK_CTL_BUSY /;"	d
+CM_CLK_CTL_ENAB	./clk.h	/^#define CM_CLK_CTL_ENAB /;"	d
+CM_CLK_CTL_FLIP	./clk.h	/^#define CM_CLK_CTL_FLIP /;"	d
+CM_CLK_CTL_KILL	./clk.h	/^#define CM_CLK_CTL_KILL /;"	d
+CM_CLK_CTL_MASH	./clk.h	/^#define CM_CLK_CTL_MASH(/;"	d
+CM_CLK_CTL_PASSWD	./clk.h	/^#define CM_CLK_CTL_PASSWD /;"	d
+CM_CLK_CTL_SRC_GND	./clk.h	/^#define CM_CLK_CTL_SRC_GND /;"	d
+CM_CLK_CTL_SRC_HDMIAUX	./clk.h	/^#define CM_CLK_CTL_SRC_HDMIAUX /;"	d
+CM_CLK_CTL_SRC_OSC	./clk.h	/^#define CM_CLK_CTL_SRC_OSC /;"	d
+CM_CLK_CTL_SRC_PLLA	./clk.h	/^#define CM_CLK_CTL_SRC_PLLA /;"	d
+CM_CLK_CTL_SRC_PLLC	./clk.h	/^#define CM_CLK_CTL_SRC_PLLC /;"	d
+CM_CLK_CTL_SRC_PLLD	./clk.h	/^#define CM_CLK_CTL_SRC_PLLD /;"	d
+CM_CLK_CTL_SRC_TSTDBG0	./clk.h	/^#define CM_CLK_CTL_SRC_TSTDBG0 /;"	d
+CM_CLK_CTL_SRC_TSTDBG1	./clk.h	/^#define CM_CLK_CTL_SRC_TSTDBG1 /;"	d
+CM_CLK_DIV_DIVF	./clk.h	/^#define CM_CLK_DIV_DIVF(/;"	d
+CM_CLK_DIV_DIVI	./clk.h	/^#define CM_CLK_DIV_DIVI(/;"	d
+CM_CLK_DIV_PASSWD	./clk.h	/^#define CM_CLK_DIV_PASSWD /;"	d
+CM_PCM_OFFSET	./clk.h	/^#define CM_PCM_OFFSET /;"	d
+CM_PWM_OFFSET	./clk.h	/^#define CM_PWM_OFFSET /;"	d
+DEV_GPIOMEM	./mailbox.h	/^#define DEV_GPIOMEM /;"	d
+DEV_MEM	./mailbox.h	/^#define DEV_MEM /;"	d
+DMA	./main.c	/^#define DMA /;"	d	file:
+DMA0_OFFSET	./dma.h	/^#define DMA0_OFFSET /;"	d
+DMA10_OFFSET	./dma.h	/^#define DMA10_OFFSET /;"	d
+DMA11_OFFSET	./dma.h	/^#define DMA11_OFFSET /;"	d
+DMA12_OFFSET	./dma.h	/^#define DMA12_OFFSET /;"	d
+DMA13_OFFSET	./dma.h	/^#define DMA13_OFFSET /;"	d
+DMA14_OFFSET	./dma.h	/^#define DMA14_OFFSET /;"	d
+DMA15_OFFSET	./dma.h	/^#define DMA15_OFFSET /;"	d
+DMA1_OFFSET	./dma.h	/^#define DMA1_OFFSET /;"	d
+DMA2_OFFSET	./dma.h	/^#define DMA2_OFFSET /;"	d
+DMA3_OFFSET	./dma.h	/^#define DMA3_OFFSET /;"	d
+DMA4_OFFSET	./dma.h	/^#define DMA4_OFFSET /;"	d
+DMA5_OFFSET	./dma.h	/^#define DMA5_OFFSET /;"	d
+DMA6_OFFSET	./dma.h	/^#define DMA6_OFFSET /;"	d
+DMA7_OFFSET	./dma.h	/^#define DMA7_OFFSET /;"	d
+DMA8_OFFSET	./dma.h	/^#define DMA8_OFFSET /;"	d
+DMA9_OFFSET	./dma.h	/^#define DMA9_OFFSET /;"	d
+GPIO_OFFSET	./gpio.h	/^#define GPIO_OFFSET /;"	d
+GPIO_PIN	./main.c	/^#define GPIO_PIN /;"	d	file:
+HEIGHT	./main.c	/^#define HEIGHT /;"	d	file:
+HW_VER_STRING	./rpihw.c	/^#define HW_VER_STRING /;"	d	file:
+IOCTL_MBOX_PROPERTY	./mailbox.h	/^#define IOCTL_MBOX_PROPERTY /;"	d
+LED_BIT_COUNT	./ws2811.c	/^#define LED_BIT_COUNT(/;"	d	file:
+LED_COLOURS	./ws2811.c	/^#define LED_COLOURS /;"	d	file:
+LED_COUNT	./main.c	/^#define LED_COUNT /;"	d	file:
+LED_RESET_WAIT_TIME	./ws2811.c	/^#define LED_RESET_WAIT_TIME /;"	d	file:
+LED_RESET_uS	./ws2811.c	/^#define LED_RESET_uS /;"	d	file:
+LINE_WIDTH_MAX	./rpihw.c	/^#define LINE_WIDTH_MAX /;"	d	file:
+MAJOR_NUM	./mailbox.h	/^#define MAJOR_NUM /;"	d
+NONE	./ws2811.c	/^#define NONE	/;"	d	file:
+NUM_PCMFUNS	./pcm.h	/^#define NUM_PCMFUNS /;"	d
+OSC_FREQ	./ws2811.c	/^#define OSC_FREQ /;"	d	file:
+OSC_FREQ_PI4	./ws2811.c	/^#define OSC_FREQ_PI4 /;"	d	file:
+PAGE_MASK	./dma.h	/^#define PAGE_MASK /;"	d
+PAGE_OFFSET	./dma.h	/^#define PAGE_OFFSET(/;"	d
+PAGE_SIZE	./dma.h	/^#define PAGE_SIZE /;"	d
+PCM	./ws2811.c	/^#define PCM	/;"	d	file:
+PCMFUN_CLK	./pcm.h	/^#define PCMFUN_CLK /;"	d
+PCMFUN_DIN	./pcm.h	/^#define PCMFUN_DIN /;"	d
+PCMFUN_DOUT	./pcm.h	/^#define PCMFUN_DOUT /;"	d
+PCMFUN_FS	./pcm.h	/^#define PCMFUN_FS /;"	d
+PCM_BYTE_COUNT	./ws2811.c	/^#define PCM_BYTE_COUNT(/;"	d	file:
+PCM_OFFSET	./pcm.h	/^#define PCM_OFFSET /;"	d
+PCM_PERIPH_PHYS	./pcm.h	/^#define PCM_PERIPH_PHYS /;"	d
+PERIPH_BASE_RPI	./rpihw.c	/^#define PERIPH_BASE_RPI /;"	d	file:
+PERIPH_BASE_RPI2	./rpihw.c	/^#define PERIPH_BASE_RPI2 /;"	d	file:
+PERIPH_BASE_RPI4	./rpihw.c	/^#define PERIPH_BASE_RPI4 /;"	d	file:
+PWM	./ws2811.c	/^#define PWM	/;"	d	file:
+PWM_BYTE_COUNT	./ws2811.c	/^#define PWM_BYTE_COUNT(/;"	d	file:
+PWM_OFFSET	./pwm.h	/^#define PWM_OFFSET /;"	d
+PWM_PERIPH_PHYS	./pwm.h	/^#define PWM_PERIPH_PHYS /;"	d
+RPI_DMA_CS_ABORT	./dma.h	/^#define RPI_DMA_CS_ABORT /;"	d
+RPI_DMA_CS_ACTIVE	./dma.h	/^#define RPI_DMA_CS_ACTIVE /;"	d
+RPI_DMA_CS_DISDEBUG	./dma.h	/^#define RPI_DMA_CS_DISDEBUG /;"	d
+RPI_DMA_CS_DREQ	./dma.h	/^#define RPI_DMA_CS_DREQ /;"	d
+RPI_DMA_CS_DREQ_STOPS_DMA	./dma.h	/^#define RPI_DMA_CS_DREQ_STOPS_DMA /;"	d
+RPI_DMA_CS_END	./dma.h	/^#define RPI_DMA_CS_END /;"	d
+RPI_DMA_CS_ERROR	./dma.h	/^#define RPI_DMA_CS_ERROR /;"	d
+RPI_DMA_CS_INT	./dma.h	/^#define RPI_DMA_CS_INT /;"	d
+RPI_DMA_CS_PANIC_PRIORITY	./dma.h	/^#define RPI_DMA_CS_PANIC_PRIORITY(/;"	d
+RPI_DMA_CS_PAUSED	./dma.h	/^#define RPI_DMA_CS_PAUSED /;"	d
+RPI_DMA_CS_PRIORITY	./dma.h	/^#define RPI_DMA_CS_PRIORITY(/;"	d
+RPI_DMA_CS_RESET	./dma.h	/^#define RPI_DMA_CS_RESET /;"	d
+RPI_DMA_CS_WAITING_OUTSTANDING_WRITES	./dma.h	/^#define RPI_DMA_CS_WAITING_OUTSTANDING_WRITES /;"	d
+RPI_DMA_CS_WAIT_OUTSTANDING_WRITES	./dma.h	/^#define RPI_DMA_CS_WAIT_OUTSTANDING_WRITES /;"	d
+RPI_DMA_STRIDE_D_STRIDE	./dma.h	/^#define RPI_DMA_STRIDE_D_STRIDE(/;"	d
+RPI_DMA_STRIDE_S_STRIDE	./dma.h	/^#define RPI_DMA_STRIDE_S_STRIDE(/;"	d
+RPI_DMA_TI_BURST_LENGTH	./dma.h	/^#define RPI_DMA_TI_BURST_LENGTH(/;"	d
+RPI_DMA_TI_DEST_DREQ	./dma.h	/^#define RPI_DMA_TI_DEST_DREQ /;"	d
+RPI_DMA_TI_DEST_IGNORE	./dma.h	/^#define RPI_DMA_TI_DEST_IGNORE /;"	d
+RPI_DMA_TI_DEST_INC	./dma.h	/^#define RPI_DMA_TI_DEST_INC /;"	d
+RPI_DMA_TI_DEST_WIDTH	./dma.h	/^#define RPI_DMA_TI_DEST_WIDTH /;"	d
+RPI_DMA_TI_INTEN	./dma.h	/^#define RPI_DMA_TI_INTEN /;"	d
+RPI_DMA_TI_NO_WIDE_BURSTS	./dma.h	/^#define RPI_DMA_TI_NO_WIDE_BURSTS /;"	d
+RPI_DMA_TI_PERMAP	./dma.h	/^#define RPI_DMA_TI_PERMAP(/;"	d
+RPI_DMA_TI_SRC_DREQ	./dma.h	/^#define RPI_DMA_TI_SRC_DREQ /;"	d
+RPI_DMA_TI_SRC_IGNORE	./dma.h	/^#define RPI_DMA_TI_SRC_IGNORE /;"	d
+RPI_DMA_TI_SRC_INC	./dma.h	/^#define RPI_DMA_TI_SRC_INC /;"	d
+RPI_DMA_TI_SRC_WIDTH	./dma.h	/^#define RPI_DMA_TI_SRC_WIDTH /;"	d
+RPI_DMA_TI_TDMODE	./dma.h	/^#define RPI_DMA_TI_TDMODE /;"	d
+RPI_DMA_TI_WAITS	./dma.h	/^#define RPI_DMA_TI_WAITS(/;"	d
+RPI_DMA_TI_WAIT_RESP	./dma.h	/^#define RPI_DMA_TI_WAIT_RESP /;"	d
+RPI_DMA_TXFR_LEN_XLENGTH	./dma.h	/^#define RPI_DMA_TXFR_LEN_XLENGTH(/;"	d
+RPI_DMA_TXFR_LEN_YLENGTH	./dma.h	/^#define RPI_DMA_TXFR_LEN_YLENGTH(/;"	d
+RPI_HWVER_TYPE_PI1	./rpihw.h	/^#define RPI_HWVER_TYPE_PI1 /;"	d
+RPI_HWVER_TYPE_PI2	./rpihw.h	/^#define RPI_HWVER_TYPE_PI2 /;"	d
+RPI_HWVER_TYPE_PI4	./rpihw.h	/^#define RPI_HWVER_TYPE_PI4 /;"	d
+RPI_HWVER_TYPE_UNKNOWN	./rpihw.h	/^#define RPI_HWVER_TYPE_UNKNOWN /;"	d
+RPI_MANUFACTURER_MASK	./rpihw.c	/^#define RPI_MANUFACTURER_MASK /;"	d	file:
+RPI_PCM_CS_DMAEN	./pcm.h	/^#define RPI_PCM_CS_DMAEN /;"	d
+RPI_PCM_CS_EN	./pcm.h	/^#define RPI_PCM_CS_EN /;"	d
+RPI_PCM_CS_RXCLR	./pcm.h	/^#define RPI_PCM_CS_RXCLR /;"	d
+RPI_PCM_CS_RXD	./pcm.h	/^#define RPI_PCM_CS_RXD /;"	d
+RPI_PCM_CS_RXERR	./pcm.h	/^#define RPI_PCM_CS_RXERR /;"	d
+RPI_PCM_CS_RXF	./pcm.h	/^#define RPI_PCM_CS_RXF /;"	d
+RPI_PCM_CS_RXON	./pcm.h	/^#define RPI_PCM_CS_RXON /;"	d
+RPI_PCM_CS_RXR	./pcm.h	/^#define RPI_PCM_CS_RXR /;"	d
+RPI_PCM_CS_RXSEX	./pcm.h	/^#define RPI_PCM_CS_RXSEX /;"	d
+RPI_PCM_CS_RXSYNC	./pcm.h	/^#define RPI_PCM_CS_RXSYNC /;"	d
+RPI_PCM_CS_RXTHR	./pcm.h	/^#define RPI_PCM_CS_RXTHR(/;"	d
+RPI_PCM_CS_STBY	./pcm.h	/^#define RPI_PCM_CS_STBY /;"	d
+RPI_PCM_CS_SYNC	./pcm.h	/^#define RPI_PCM_CS_SYNC /;"	d
+RPI_PCM_CS_TXCLR	./pcm.h	/^#define RPI_PCM_CS_TXCLR /;"	d
+RPI_PCM_CS_TXD	./pcm.h	/^#define RPI_PCM_CS_TXD /;"	d
+RPI_PCM_CS_TXE	./pcm.h	/^#define RPI_PCM_CS_TXE /;"	d
+RPI_PCM_CS_TXERR	./pcm.h	/^#define RPI_PCM_CS_TXERR /;"	d
+RPI_PCM_CS_TXON	./pcm.h	/^#define RPI_PCM_CS_TXON /;"	d
+RPI_PCM_CS_TXSYNC	./pcm.h	/^#define RPI_PCM_CS_TXSYNC /;"	d
+RPI_PCM_CS_TXTHR	./pcm.h	/^#define RPI_PCM_CS_TXTHR(/;"	d
+RPI_PCM_CS_TXW	./pcm.h	/^#define RPI_PCM_CS_TXW /;"	d
+RPI_PCM_DREQ_RX	./pcm.h	/^#define RPI_PCM_DREQ_RX(/;"	d
+RPI_PCM_DREQ_RX_PANIC	./pcm.h	/^#define RPI_PCM_DREQ_RX_PANIC(/;"	d
+RPI_PCM_DREQ_TX	./pcm.h	/^#define RPI_PCM_DREQ_TX(/;"	d
+RPI_PCM_DREQ_TX_PANIC	./pcm.h	/^#define RPI_PCM_DREQ_TX_PANIC(/;"	d
+RPI_PCM_GRAY_CLR	./pcm.h	/^#define RPI_PCM_GRAY_CLR /;"	d
+RPI_PCM_GRAY_EN	./pcm.h	/^#define RPI_PCM_GRAY_EN /;"	d
+RPI_PCM_GRAY_FLUSH	./pcm.h	/^#define RPI_PCM_GRAY_FLUSH /;"	d
+RPI_PCM_GRAY_FLUSHED	./pcm.h	/^#define RPI_PCM_GRAY_FLUSHED(/;"	d
+RPI_PCM_GRAY_RXFIFOLEVEL	./pcm.h	/^#define RPI_PCM_GRAY_RXFIFOLEVEL(/;"	d
+RPI_PCM_GRAY_RXLEVEL	./pcm.h	/^#define RPI_PCM_GRAY_RXLEVEL(/;"	d
+RPI_PCM_INTEN_RXERR	./pcm.h	/^#define RPI_PCM_INTEN_RXERR /;"	d
+RPI_PCM_INTEN_RXR	./pcm.h	/^#define RPI_PCM_INTEN_RXR /;"	d
+RPI_PCM_INTEN_TXERR	./pcm.h	/^#define RPI_PCM_INTEN_TXERR /;"	d
+RPI_PCM_INTEN_TXW	./pcm.h	/^#define RPI_PCM_INTEN_TXW /;"	d
+RPI_PCM_INTSTC_RXERR	./pcm.h	/^#define RPI_PCM_INTSTC_RXERR /;"	d
+RPI_PCM_INTSTC_RXR	./pcm.h	/^#define RPI_PCM_INTSTC_RXR /;"	d
+RPI_PCM_INTSTC_TXERR	./pcm.h	/^#define RPI_PCM_INTSTC_TXERR /;"	d
+RPI_PCM_INTSTC_TXW	./pcm.h	/^#define RPI_PCM_INTSTC_TXW /;"	d
+RPI_PCM_MODE_CLKI	./pcm.h	/^#define RPI_PCM_MODE_CLKI /;"	d
+RPI_PCM_MODE_CLKM	./pcm.h	/^#define RPI_PCM_MODE_CLKM /;"	d
+RPI_PCM_MODE_CLK_DIS	./pcm.h	/^#define RPI_PCM_MODE_CLK_DIS /;"	d
+RPI_PCM_MODE_FLEN	./pcm.h	/^#define RPI_PCM_MODE_FLEN(/;"	d
+RPI_PCM_MODE_FRXP	./pcm.h	/^#define RPI_PCM_MODE_FRXP /;"	d
+RPI_PCM_MODE_FSI	./pcm.h	/^#define RPI_PCM_MODE_FSI /;"	d
+RPI_PCM_MODE_FSLEN	./pcm.h	/^#define RPI_PCM_MODE_FSLEN(/;"	d
+RPI_PCM_MODE_FSM	./pcm.h	/^#define RPI_PCM_MODE_FSM /;"	d
+RPI_PCM_MODE_FTXP	./pcm.h	/^#define RPI_PCM_MODE_FTXP /;"	d
+RPI_PCM_MODE_PDME	./pcm.h	/^#define RPI_PCM_MODE_PDME /;"	d
+RPI_PCM_MODE_PDMN	./pcm.h	/^#define RPI_PCM_MODE_PDMN /;"	d
+RPI_PCM_RXC_CH1EN	./pcm.h	/^#define RPI_PCM_RXC_CH1EN /;"	d
+RPI_PCM_RXC_CH1POS	./pcm.h	/^#define RPI_PCM_RXC_CH1POS(/;"	d
+RPI_PCM_RXC_CH1WEX	./pcm.h	/^#define RPI_PCM_RXC_CH1WEX /;"	d
+RPI_PCM_RXC_CH1WID	./pcm.h	/^#define RPI_PCM_RXC_CH1WID(/;"	d
+RPI_PCM_RXC_CH2EN	./pcm.h	/^#define RPI_PCM_RXC_CH2EN /;"	d
+RPI_PCM_RXC_CH2POS	./pcm.h	/^#define RPI_PCM_RXC_CH2POS(/;"	d
+RPI_PCM_RXC_CH2WEX	./pcm.h	/^#define RPI_PCM_RXC_CH2WEX /;"	d
+RPI_PCM_RXC_CH2WID	./pcm.h	/^#define RPI_PCM_RXC_CH2WID(/;"	d
+RPI_PCM_TXC_CH1EN	./pcm.h	/^#define RPI_PCM_TXC_CH1EN /;"	d
+RPI_PCM_TXC_CH1POS	./pcm.h	/^#define RPI_PCM_TXC_CH1POS(/;"	d
+RPI_PCM_TXC_CH1WEX	./pcm.h	/^#define RPI_PCM_TXC_CH1WEX /;"	d
+RPI_PCM_TXC_CH1WID	./pcm.h	/^#define RPI_PCM_TXC_CH1WID(/;"	d
+RPI_PCM_TXC_CH2EN	./pcm.h	/^#define RPI_PCM_TXC_CH2EN /;"	d
+RPI_PCM_TXC_CH2POS	./pcm.h	/^#define RPI_PCM_TXC_CH2POS(/;"	d
+RPI_PCM_TXC_CH2WEX	./pcm.h	/^#define RPI_PCM_TXC_CH2WEX /;"	d
+RPI_PCM_TXC_CH2WID	./pcm.h	/^#define RPI_PCM_TXC_CH2WID(/;"	d
+RPI_PWM_CHANNELS	./pwm.h	/^#define RPI_PWM_CHANNELS /;"	d
+RPI_PWM_CTL_CLRF1	./pwm.h	/^#define RPI_PWM_CTL_CLRF1 /;"	d
+RPI_PWM_CTL_MODE1	./pwm.h	/^#define RPI_PWM_CTL_MODE1 /;"	d
+RPI_PWM_CTL_MODE2	./pwm.h	/^#define RPI_PWM_CTL_MODE2 /;"	d
+RPI_PWM_CTL_MSEN1	./pwm.h	/^#define RPI_PWM_CTL_MSEN1 /;"	d
+RPI_PWM_CTL_MSEN2	./pwm.h	/^#define RPI_PWM_CTL_MSEN2 /;"	d
+RPI_PWM_CTL_POLA1	./pwm.h	/^#define RPI_PWM_CTL_POLA1 /;"	d
+RPI_PWM_CTL_POLA2	./pwm.h	/^#define RPI_PWM_CTL_POLA2 /;"	d
+RPI_PWM_CTL_PWEN1	./pwm.h	/^#define RPI_PWM_CTL_PWEN1 /;"	d
+RPI_PWM_CTL_PWEN2	./pwm.h	/^#define RPI_PWM_CTL_PWEN2 /;"	d
+RPI_PWM_CTL_RPTL1	./pwm.h	/^#define RPI_PWM_CTL_RPTL1 /;"	d
+RPI_PWM_CTL_RPTL2	./pwm.h	/^#define RPI_PWM_CTL_RPTL2 /;"	d
+RPI_PWM_CTL_SBIT1	./pwm.h	/^#define RPI_PWM_CTL_SBIT1 /;"	d
+RPI_PWM_CTL_SBIT2	./pwm.h	/^#define RPI_PWM_CTL_SBIT2 /;"	d
+RPI_PWM_CTL_USEF1	./pwm.h	/^#define RPI_PWM_CTL_USEF1 /;"	d
+RPI_PWM_CTL_USEF2	./pwm.h	/^#define RPI_PWM_CTL_USEF2 /;"	d
+RPI_PWM_DMAC_DREQ	./pwm.h	/^#define RPI_PWM_DMAC_DREQ(/;"	d
+RPI_PWM_DMAC_ENAB	./pwm.h	/^#define RPI_PWM_DMAC_ENAB /;"	d
+RPI_PWM_DMAC_PANIC	./pwm.h	/^#define RPI_PWM_DMAC_PANIC(/;"	d
+RPI_PWM_STA_BERR	./pwm.h	/^#define RPI_PWM_STA_BERR /;"	d
+RPI_PWM_STA_EMPT1	./pwm.h	/^#define RPI_PWM_STA_EMPT1 /;"	d
+RPI_PWM_STA_FULL1	./pwm.h	/^#define RPI_PWM_STA_FULL1 /;"	d
+RPI_PWM_STA_GAP01	./pwm.h	/^#define RPI_PWM_STA_GAP01 /;"	d
+RPI_PWM_STA_GAP02	./pwm.h	/^#define RPI_PWM_STA_GAP02 /;"	d
+RPI_PWM_STA_GAP03	./pwm.h	/^#define RPI_PWM_STA_GAP03 /;"	d
+RPI_PWM_STA_GAP04	./pwm.h	/^#define RPI_PWM_STA_GAP04 /;"	d
+RPI_PWM_STA_RERR1	./pwm.h	/^#define RPI_PWM_STA_RERR1 /;"	d
+RPI_PWM_STA_STA1	./pwm.h	/^#define RPI_PWM_STA_STA1 /;"	d
+RPI_PWM_STA_STA2	./pwm.h	/^#define RPI_PWM_STA_STA2 /;"	d
+RPI_PWM_STA_STA3	./pwm.h	/^#define RPI_PWM_STA_STA3 /;"	d
+RPI_PWM_STA_STA4	./pwm.h	/^#define RPI_PWM_STA_STA4 /;"	d
+RPI_PWM_STA_WERR1	./pwm.h	/^#define RPI_PWM_STA_WERR1 /;"	d
+RPI_WARRANTY_MASK	./rpihw.c	/^#define RPI_WARRANTY_MASK /;"	d	file:
+SK6812W_STRIP	./ws2811.h	/^#define SK6812W_STRIP /;"	d
+SK6812_SHIFT_WMASK	./ws2811.h	/^#define SK6812_SHIFT_WMASK /;"	d
+SK6812_STRIP	./ws2811.h	/^#define SK6812_STRIP /;"	d
+SK6812_STRIP_BGRW	./ws2811.h	/^#define SK6812_STRIP_BGRW /;"	d
+SK6812_STRIP_BRGW	./ws2811.h	/^#define SK6812_STRIP_BRGW /;"	d
+SK6812_STRIP_GBRW	./ws2811.h	/^#define SK6812_STRIP_GBRW /;"	d
+SK6812_STRIP_GRBW	./ws2811.h	/^#define SK6812_STRIP_GRBW /;"	d
+SK6812_STRIP_RBGW	./ws2811.h	/^#define SK6812_STRIP_RBGW /;"	d
+SK6812_STRIP_RGBW	./ws2811.h	/^#define SK6812_STRIP_RGBW /;"	d
+SPI	./ws2811.c	/^#define SPI	/;"	d	file:
+SPI consideration	./README.md	/^## SPI consideration$/;"	s
+STRIP_TYPE	./main.c	/^#define STRIP_TYPE /;"	d	file:
+TARGET_FREQ	./main.c	/^#define TARGET_FREQ /;"	d	file:
+VERSION	./main.c	/^static char VERSION[] = "XX.YY.ZZ";$/;"	v	typeref:typename:char[]	file:
+VIDEOCORE_BASE_RPI	./rpihw.c	/^#define VIDEOCORE_BASE_RPI /;"	d	file:
+VIDEOCORE_BASE_RPI2	./rpihw.c	/^#define VIDEOCORE_BASE_RPI2 /;"	d	file:
+WIDTH	./main.c	/^#define WIDTH /;"	d	file:
+WS2811_RETURN_STATES	./ws2811.h	/^    WS2811_RETURN_STATES(WS2811_RETURN_STATES_ENUM),$/;"	e	enum:__anon3222f2ae0103
+WS2811_RETURN_STATES	./ws2811.h	/^#define WS2811_RETURN_STATES(/;"	d
+WS2811_RETURN_STATES_ENUM	./ws2811.h	/^#define WS2811_RETURN_STATES_ENUM(/;"	d
+WS2811_RETURN_STATES_STRING	./ws2811.h	/^#define WS2811_RETURN_STATES_STRING(/;"	d
+WS2811_RETURN_STATE_COUNT	./ws2811.h	/^    WS2811_RETURN_STATE_COUNT$/;"	e	enum:__anon3222f2ae0103
+WS2811_STRIP_BGR	./ws2811.h	/^#define WS2811_STRIP_BGR /;"	d
+WS2811_STRIP_BRG	./ws2811.h	/^#define WS2811_STRIP_BRG /;"	d
+WS2811_STRIP_GBR	./ws2811.h	/^#define WS2811_STRIP_GBR /;"	d
+WS2811_STRIP_GRB	./ws2811.h	/^#define WS2811_STRIP_GRB /;"	d
+WS2811_STRIP_RBG	./ws2811.h	/^#define WS2811_STRIP_RBG /;"	d
+WS2811_STRIP_RGB	./ws2811.h	/^#define WS2811_STRIP_RGB /;"	d
+WS2811_TARGET_FREQ	./ws2811.h	/^#define WS2811_TARGET_FREQ /;"	d
+WS2812_STRIP	./ws2811.h	/^#define WS2812_STRIP /;"	d
+__CLK_H__	./clk.h	/^#define __CLK_H__$/;"	d
+__DMA_H__	./dma.h	/^#define __DMA_H__$/;"	d
+__GPIO_H__	./gpio.h	/^#define __GPIO_H__$/;"	d
+__PCM_H__	./pcm.h	/^#define __PCM_H__$/;"	d
+__PWM_H__	./pwm.h	/^#define __PWM_H__$/;"	d
+__RPIHW_H__	./rpihw.h	/^#define __RPIHW_H__$/;"	d
+__WS2811_H__	./ws2811.h	/^#define __WS2811_H__$/;"	d
+__anon09e235670108	./gpio.h	/^{$/;"	s
+__anon3222f2ae0103	./ws2811.h	/^typedef enum {$/;"	g
+__anon4d957df20108	./clk.h	/^typedef struct {$/;"	s
+__anon4da7f84a0108	./dma.h	/^{$/;"	s
+__anon4da7f84a0208	./dma.h	/^{$/;"	s
+__anon4e7bd5980108	./pcm.h	/^{$/;"	s
+__anon4e7bd5980208	./pcm.h	/^{$/;"	s
+__anon4e7bd5980308	./pcm.h	/^{$/;"	s
+__anon4e86cd2c0108	./pwm.h	/^{$/;"	s
+__anon4e86cd2c0208	./pwm.h	/^{$/;"	s
+__anon4e86cd2c0308	./pwm.h	/^{$/;"	s
+__anon94e6d7620108	./rpihw.h	/^typedef struct {$/;"	s
+addr_to_bus	./ws2811.c	/^static uint32_t addr_to_bus(ws2811_device_t *device, const volatile void *virt)$/;"	f	typeref:typename:uint32_t	file:
+afen	./gpio.h	/^    uint32_t afen[2];                            \/\/ GPIO Pin Async Falling Edge Detect$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[2]
+altnum	./pcm.h	/^    int altnum;$/;"	m	struct:__anon4e7bd5980208	typeref:typename:int
+altnum	./pwm.h	/^    int altnum;$/;"	m	struct:__anon4e86cd2c0208	typeref:typename:int
+aren	./gpio.h	/^    uint32_t aren[2];                            \/\/ GPIO Pin Async Rising Edge Detect$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[2]
+brightness	./ws2811.h	/^    uint8_t brightness;                          \/\/< Brightness value between 0 and 255$/;"	m	struct:ws2811_channel_t	typeref:typename:uint8_t
+bshift	./ws2811.h	/^    uint8_t bshift;                              \/\/< Blue shift value$/;"	m	struct:ws2811_channel_t	typeref:typename:uint8_t
+bus_addr	./ws2811.c	/^    unsigned bus_addr;      \/* From mem_lock() *\/$/;"	m	struct:videocore_mbox	typeref:typename:unsigned	file:
+channel	./ws2811.h	/^    ws2811_channel_t channel[RPI_PWM_CHANNELS];$/;"	m	struct:ws2811_t	typeref:typename:ws2811_channel_t[]
+check_hwver_and_gpionum	./ws2811.c	/^static int check_hwver_and_gpionum(ws2811_t *ws2811)$/;"	f	typeref:typename:int	file:
+clear_on_exit	./main.c	/^int clear_on_exit = 0;$/;"	v	typeref:typename:int
+clr	./gpio.h	/^    uint32_t clr[2];                             \/\/ GPIO Pin Output Clear$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[2]
+cm_clk	./ws2811.c	/^    volatile cm_clk_t *cm_clk;$/;"	m	struct:ws2811_device	typeref:typename:volatile cm_clk_t *	file:
+cm_clk_t	./clk.h	/^} __attribute__((packed, aligned(4))) cm_clk_t;$/;"	t	typeref:struct:__anon4d957df20108
+conblk_ad	./dma.h	/^    uint32_t conblk_ad;$/;"	m	struct:__anon4da7f84a0208	typeref:typename:uint32_t
+count	./pcm.h	/^    const int count;$/;"	m	struct:__anon4e7bd5980308	typeref:typename:const int
+count	./pwm.h	/^    const int count;$/;"	m	struct:__anon4e86cd2c0308	typeref:typename:const int
+count	./ws2811.h	/^    int count;                                   \/\/< Number of LEDs, 0 if channel is unused$/;"	m	struct:ws2811_channel_t	typeref:typename:int
+cs	./dma.h	/^    uint32_t cs;$/;"	m	struct:__anon4da7f84a0208	typeref:typename:uint32_t
+cs	./pcm.h	/^    uint32_t cs;$/;"	m	struct:__anon4e7bd5980108	typeref:typename:uint32_t
+ctl	./clk.h	/^    uint32_t ctl;$/;"	m	struct:__anon4d957df20108	typeref:typename:uint32_t
+ctl	./pwm.h	/^    uint32_t ctl;$/;"	m	struct:__anon4e86cd2c0108	typeref:typename:uint32_t
+ctrl_c_handler	./main.c	/^static void ctrl_c_handler(int signum)$/;"	f	typeref:typename:void	file:
+dat1	./pwm.h	/^    uint32_t dat1;$/;"	m	struct:__anon4e86cd2c0108	typeref:typename:uint32_t
+dat2	./pwm.h	/^    uint32_t dat2;$/;"	m	struct:__anon4e86cd2c0108	typeref:typename:uint32_t
+debug	./dma.h	/^    uint32_t debug;$/;"	m	struct:__anon4da7f84a0208	typeref:typename:uint32_t
+desc	./rpihw.h	/^    char *desc;$/;"	m	struct:__anon94e6d7620108	typeref:typename:char *
+dest_ad	./dma.h	/^    uint32_t dest_ad;$/;"	m	struct:__anon4da7f84a0108	typeref:typename:uint32_t
+dest_ad	./dma.h	/^    uint32_t dest_ad;$/;"	m	struct:__anon4da7f84a0208	typeref:typename:uint32_t
+device	./ws2811.h	/^    struct ws2811_device *device;                \/\/< Private data for driver use$/;"	m	struct:ws2811_t	typeref:struct:ws2811_device *
+div	./clk.h	/^    uint32_t div;$/;"	m	struct:__anon4d957df20108	typeref:typename:uint32_t
+dma	./ws2811.c	/^    volatile dma_t *dma;$/;"	m	struct:ws2811_device	typeref:typename:volatile dma_t *	file:
+dma_cb	./ws2811.c	/^    volatile dma_cb_t *dma_cb;$/;"	m	struct:ws2811_device	typeref:typename:volatile dma_cb_t *	file:
+dma_cb_addr	./ws2811.c	/^    uint32_t dma_cb_addr;$/;"	m	struct:ws2811_device	typeref:typename:uint32_t	file:
+dma_cb_t	./dma.h	/^} __attribute__((packed, aligned(4))) dma_cb_t;$/;"	t	typeref:struct:__anon4da7f84a0108
+dma_offset	./dma.c	/^static const uint32_t dma_offset[] =$/;"	v	typeref:typename:const uint32_t[]	file:
+dma_start	./ws2811.c	/^static void dma_start(ws2811_t *ws2811)$/;"	f	typeref:typename:void	file:
+dma_t	./dma.h	/^} __attribute__((packed, aligned(4))) dma_t;$/;"	t	typeref:struct:__anon4da7f84a0208
+dmac	./pwm.h	/^    uint32_t dmac;$/;"	m	struct:__anon4e86cd2c0108	typeref:typename:uint32_t
+dmanum	./ws2811.h	/^    int dmanum;                                  \/\/< DMA number _not_ already in use$/;"	m	struct:ws2811_t	typeref:typename:int
+dmanum_to_offset	./dma.c	/^uint32_t dmanum_to_offset(int dmanum)$/;"	f	typeref:typename:uint32_t
+dotcolors	./main.c	/^ws2811_led_t dotcolors[] =$/;"	v	typeref:typename:ws2811_led_t[]
+dotcolors_rgbw	./main.c	/^ws2811_led_t dotcolors_rgbw[] =$/;"	v	typeref:typename:ws2811_led_t[]
+dotspos	./main.c	/^int dotspos[] = { 0, 1, 2, 3, 4, 5, 6, 7 };$/;"	v	typeref:typename:int[]
+dreq	./pcm.h	/^    uint32_t dreq;$/;"	m	struct:__anon4e7bd5980108	typeref:typename:uint32_t
+driver_mode	./ws2811.c	/^    int driver_mode;$/;"	m	struct:ws2811_device	typeref:typename:int	file:
+eds	./gpio.h	/^    uint32_t eds[2];                             \/\/ GPIO Pin Event Detect Status$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[2]
+execute_code	./mailbox.c	/^uint32_t execute_code(int file_desc, uint32_t code, uint32_t r0, uint32_t r1, $/;"	f	typeref:typename:uint32_t
+execute_qpu	./mailbox.c	/^uint32_t execute_qpu(int file_desc, uint32_t num_qpus, uint32_t control,$/;"	f	typeref:typename:uint32_t
+fen	./gpio.h	/^    uint32_t fen[2];                             \/\/ GPIO Pin Falling Edge Detect Enable$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[2]
+fif1	./pwm.h	/^    uint32_t fif1;$/;"	m	struct:__anon4e86cd2c0108	typeref:typename:uint32_t
+fifo	./pcm.h	/^    uint32_t fifo;$/;"	m	struct:__anon4e7bd5980108	typeref:typename:uint32_t
+freq	./ws2811.h	/^    uint32_t freq;                               \/\/< Required output frequency$/;"	m	struct:ws2811_t	typeref:typename:uint32_t
+fsel	./gpio.h	/^    uint32_t fsel[6];                            \/\/ GPIO Function Select$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[6]
+gamma	./ws2811.h	/^    uint8_t *gamma;                              \/\/< Gamma correction table$/;"	m	struct:ws2811_channel_t	typeref:typename:uint8_t *
+get_microsecond_timestamp	./ws2811.c	/^static uint64_t get_microsecond_timestamp()$/;"	f	typeref:typename:uint64_t	file:
+gpio	./ws2811.c	/^    volatile gpio_t *gpio;$/;"	m	struct:ws2811_device	typeref:typename:volatile gpio_t *	file:
+gpio_function_set	./gpio.h	/^static inline void gpio_function_set(volatile gpio_t *gpio, uint8_t pin, uint8_t function)$/;"	f	typeref:typename:void
+gpio_init	./ws2811.c	/^static int gpio_init(ws2811_t *ws2811)$/;"	f	typeref:typename:int	file:
+gpio_level_set	./gpio.h	/^static inline void gpio_level_set(volatile gpio_t *gpio, uint8_t pin, uint8_t level)$/;"	f	typeref:typename:void
+gpio_output_set	./gpio.h	/^static inline void gpio_output_set(volatile gpio_t *gpio, uint8_t pin, uint8_t output)$/;"	f	typeref:typename:void
+gpio_t	./gpio.h	/^} __attribute__((packed, aligned(4))) gpio_t;$/;"	t	typeref:struct:__anon09e235670108
+gpionum	./ws2811.h	/^    int gpionum;                                 \/\/< GPIO Pin with PWM alternate function, 0 i/;"	m	struct:ws2811_channel_t	typeref:typename:int
+gray	./pcm.h	/^    uint32_t gray;$/;"	m	struct:__anon4e7bd5980108	typeref:typename:uint32_t
+gshift	./ws2811.h	/^    uint8_t gshift;                              \/\/< Green shift value$/;"	m	struct:ws2811_channel_t	typeref:typename:uint8_t
+handle	./ws2811.c	/^    int handle;             \/* From mbox_open() *\/$/;"	m	struct:videocore_mbox	typeref:typename:int	file:
+height	./main.c	/^int height = HEIGHT;$/;"	v	typeref:typename:int
+hen	./gpio.h	/^    uint32_t hen[2];                             \/\/ GPIO Pin High Detect Enable$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[2]
+hwver	./rpihw.h	/^    uint32_t hwver;$/;"	m	struct:__anon94e6d7620108	typeref:typename:uint32_t
+inten	./pcm.h	/^    uint32_t inten;$/;"	m	struct:__anon4e7bd5980108	typeref:typename:uint32_t
+intstc	./pcm.h	/^    uint32_t intstc;$/;"	m	struct:__anon4e7bd5980108	typeref:typename:uint32_t
+invert	./ws2811.h	/^    int invert;                                  \/\/< Invert output signal$/;"	m	struct:ws2811_channel_t	typeref:typename:int
+led_count	./main.c	/^int led_count = LED_COUNT;$/;"	v	typeref:typename:int
+leds	./ws2811.h	/^    ws2811_led_t *leds;                          \/\/< LED buffers, allocated by driver based on/;"	m	struct:ws2811_channel_t	typeref:typename:ws2811_led_t *
+ledstring	./main.c	/^ws2811_t ledstring =$/;"	v	typeref:typename:ws2811_t
+len	./gpio.h	/^    uint32_t len[2];                             \/\/ GPIO Pin Low Detect Enable$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[2]
+lev	./gpio.h	/^    uint32_t lev[2];                             \/\/ GPIO Pin Level$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[2]
+main	./main.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+map_registers	./ws2811.c	/^static int map_registers(ws2811_t *ws2811)$/;"	f	typeref:typename:int	file:
+mapmem	./mailbox.c	/^void *mapmem(uint32_t base, uint32_t size, const char *mem_dev) {$/;"	f	typeref:typename:void *
+matrix	./main.c	/^ws2811_led_t *matrix;$/;"	v	typeref:typename:ws2811_led_t *
+matrix_bottom	./main.c	/^void matrix_bottom(void)$/;"	f	typeref:typename:void
+matrix_clear	./main.c	/^void matrix_clear(void)$/;"	f	typeref:typename:void
+matrix_raise	./main.c	/^void matrix_raise(void)$/;"	f	typeref:typename:void
+matrix_render	./main.c	/^void matrix_render(void)$/;"	f	typeref:typename:void
+max_channel_led_count	./ws2811.c	/^static int max_channel_led_count(ws2811_t *ws2811)$/;"	f	typeref:typename:int	file:
+max_count	./ws2811.c	/^    int max_count;$/;"	m	struct:ws2811_device	typeref:typename:int	file:
+mbox	./ws2811.c	/^    videocore_mbox_t mbox;$/;"	m	struct:ws2811_device	typeref:typename:videocore_mbox_t	file:
+mbox_close	./mailbox.c	/^void mbox_close(int file_desc) {$/;"	f	typeref:typename:void
+mbox_open	./mailbox.c	/^int mbox_open(void) {$/;"	f	typeref:typename:int
+mbox_property	./mailbox.c	/^static int mbox_property(int file_desc, void *buf) {$/;"	f	typeref:typename:int	file:
+mem_alloc	./mailbox.c	/^uint32_t mem_alloc(int file_desc, uint32_t size, uint32_t align, uint32_t flags) {$/;"	f	typeref:typename:uint32_t
+mem_free	./mailbox.c	/^uint32_t mem_free(int file_desc, uint32_t handle) {$/;"	f	typeref:typename:uint32_t
+mem_lock	./mailbox.c	/^uint32_t mem_lock(int file_desc, uint32_t handle) {$/;"	f	typeref:typename:uint32_t
+mem_ref	./ws2811.c	/^    unsigned mem_ref;       \/* From mem_alloc() *\/$/;"	m	struct:videocore_mbox	typeref:typename:unsigned	file:
+mem_unlock	./mailbox.c	/^uint32_t mem_unlock(int file_desc, uint32_t handle) {$/;"	f	typeref:typename:uint32_t
+mode	./pcm.h	/^    uint32_t mode;$/;"	m	struct:__anon4e7bd5980108	typeref:typename:uint32_t
+nextconbk	./dma.h	/^    uint32_t nextconbk;$/;"	m	struct:__anon4da7f84a0108	typeref:typename:uint32_t
+nextconbk	./dma.h	/^    uint32_t nextconbk;$/;"	m	struct:__anon4da7f84a0208	typeref:typename:uint32_t
+parseargs	./main.c	/^void parseargs(int argc, char **argv, ws2811_t *ws2811)$/;"	f	typeref:typename:void
+pcm	./ws2811.c	/^    volatile pcm_t *pcm;$/;"	m	struct:ws2811_device	typeref:typename:volatile pcm_t *	file:
+pcm_pin_alt	./pcm.c	/^int pcm_pin_alt(int pcmfun, int pinnum)$/;"	f	typeref:typename:int
+pcm_pin_clk	./pcm.c	/^const pcm_pin_table_t pcm_pin_clk[] =$/;"	v	typeref:typename:const pcm_pin_table_t[]
+pcm_pin_din	./pcm.c	/^const pcm_pin_table_t pcm_pin_din[] =$/;"	v	typeref:typename:const pcm_pin_table_t[]
+pcm_pin_dout	./pcm.c	/^const pcm_pin_table_t pcm_pin_dout[] =$/;"	v	typeref:typename:const pcm_pin_table_t[]
+pcm_pin_fs	./pcm.c	/^const pcm_pin_table_t pcm_pin_fs[] =$/;"	v	typeref:typename:const pcm_pin_table_t[]
+pcm_pin_table_t	./pcm.h	/^} pcm_pin_table_t;$/;"	t	typeref:struct:__anon4e7bd5980208
+pcm_pin_tables	./pcm.c	/^const pcm_pin_tables_t pcm_pin_tables[NUM_PCMFUNS] =$/;"	v	typeref:typename:const pcm_pin_tables_t[]
+pcm_pin_tables_t	./pcm.h	/^} pcm_pin_tables_t;$/;"	t	typeref:struct:__anon4e7bd5980308
+pcm_raw_init	./ws2811.c	/^void pcm_raw_init(ws2811_t *ws2811)$/;"	f	typeref:typename:void
+pcm_t	./pcm.h	/^} __attribute__((packed, aligned(4))) pcm_t;$/;"	t	typeref:struct:__anon4e7bd5980108
+periph_base	./rpihw.h	/^    uint32_t periph_base;$/;"	m	struct:__anon94e6d7620108	typeref:typename:uint32_t
+pinnum	./pcm.h	/^    int pinnum;$/;"	m	struct:__anon4e7bd5980208	typeref:typename:int
+pinnum	./pwm.h	/^    int pinnum;$/;"	m	struct:__anon4e86cd2c0208	typeref:typename:int
+pins	./pcm.h	/^    const pcm_pin_table_t *pins;$/;"	m	struct:__anon4e7bd5980308	typeref:typename:const pcm_pin_table_t *
+pins	./pwm.h	/^    const pwm_pin_table_t *pins;$/;"	m	struct:__anon4e86cd2c0308	typeref:typename:const pwm_pin_table_t *
+pud	./gpio.h	/^    uint32_t pud;                                \/\/ GPIO Pin Pull up\/down Enable$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+pudclk	./gpio.h	/^    uint32_t pudclk[2];                          \/\/ GPIO Pin Pull up\/down Enable Clock$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[2]
+pwm	./ws2811.c	/^    volatile pwm_t *pwm;$/;"	m	struct:ws2811_device	typeref:typename:volatile pwm_t *	file:
+pwm_pin_alt	./pwm.c	/^int pwm_pin_alt(int chan, int pinnum)$/;"	f	typeref:typename:int
+pwm_pin_chan0	./pwm.c	/^const pwm_pin_table_t pwm_pin_chan0[] =$/;"	v	typeref:typename:const pwm_pin_table_t[]
+pwm_pin_chan1	./pwm.c	/^const pwm_pin_table_t pwm_pin_chan1[] =$/;"	v	typeref:typename:const pwm_pin_table_t[]
+pwm_pin_table_t	./pwm.h	/^} pwm_pin_table_t;$/;"	t	typeref:struct:__anon4e86cd2c0208
+pwm_pin_tables	./pwm.c	/^const pwm_pin_tables_t pwm_pin_tables[RPI_PWM_CHANNELS] =$/;"	v	typeref:typename:const pwm_pin_tables_t[]
+pwm_pin_tables_t	./pwm.h	/^} pwm_pin_tables_t;$/;"	t	typeref:struct:__anon4e86cd2c0308
+pwm_raw_init	./ws2811.c	/^void pwm_raw_init(ws2811_t *ws2811)$/;"	f	typeref:typename:void
+pwm_t	./pwm.h	/^} __attribute__((packed, aligned(4))) pwm_t;$/;"	t	typeref:struct:__anon4e86cd2c0108
+pxl_raw	./ws2811.c	/^    volatile uint8_t *pxl_raw;$/;"	m	struct:ws2811_device	typeref:typename:volatile uint8_t *	file:
+qpu_enable	./mailbox.c	/^uint32_t qpu_enable(int file_desc, uint32_t enable) {$/;"	f	typeref:typename:uint32_t
+ren	./gpio.h	/^    uint32_t ren[2];                             \/\/ GPIO Pin Rising Edge Detect Enable$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[2]
+render_wait_time	./ws2811.h	/^    uint64_t render_wait_time;                   \/\/< time in µs before the next render can ru/;"	m	struct:ws2811_t	typeref:typename:uint64_t
+resvd_0x0c	./pwm.h	/^    uint32_t resvd_0x0c;$/;"	m	struct:__anon4e86cd2c0108	typeref:typename:uint32_t
+resvd_0x18	./dma.h	/^    uint32_t resvd_0x18[2];$/;"	m	struct:__anon4da7f84a0108	typeref:typename:uint32_t[2]
+resvd_0x18	./gpio.h	/^    uint32_t resvd_0x18;$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+resvd_0x1c	./pwm.h	/^    uint32_t resvd_0x1c;$/;"	m	struct:__anon4e86cd2c0108	typeref:typename:uint32_t
+resvd_0x24	./gpio.h	/^    uint32_t resvd_0x24;$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+resvd_0x30	./gpio.h	/^    uint32_t resvd_0x30;$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+resvd_0x3c	./gpio.h	/^    uint32_t resvd_0x3c;$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+resvd_0x48	./gpio.h	/^    uint32_t resvd_0x48;$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+resvd_0x54	./gpio.h	/^    uint32_t resvd_0x54;$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+resvd_0x60	./gpio.h	/^    uint32_t resvd_0x60;$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+resvd_0x6c	./gpio.h	/^    uint32_t resvd_0x6c;$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+resvd_0x78	./gpio.h	/^    uint32_t resvd_0x78;$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+resvd_0x84	./gpio.h	/^    uint32_t resvd_0x84;$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+resvd_0x90	./gpio.h	/^    uint32_t resvd_0x90;$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+resvd_0xa0	./gpio.h	/^    uint32_t resvd_0xa0[4];$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[4]
+rng1	./pwm.h	/^    uint32_t rng1;$/;"	m	struct:__anon4e86cd2c0108	typeref:typename:uint32_t
+rng2	./pwm.h	/^    uint32_t rng2;$/;"	m	struct:__anon4e86cd2c0108	typeref:typename:uint32_t
+rpi_hw	./ws2811.h	/^    const rpi_hw_t *rpi_hw;                      \/\/< RPI Hardware Information$/;"	m	struct:ws2811_t	typeref:typename:const rpi_hw_t *
+rpi_hw_detect	./rpihw.c	/^const rpi_hw_t *rpi_hw_detect(void)$/;"	f	typeref:typename:const rpi_hw_t *
+rpi_hw_info	./rpihw.c	/^static const rpi_hw_t rpi_hw_info[] = {$/;"	v	typeref:typename:const rpi_hw_t[]	file:
+rpi_hw_t	./rpihw.h	/^} rpi_hw_t;$/;"	t	typeref:struct:__anon94e6d7620108
+rshift	./ws2811.h	/^    uint8_t rshift;                              \/\/< Red shift value$/;"	m	struct:ws2811_channel_t	typeref:typename:uint8_t
+running	./main.c	/^static uint8_t running = 1;$/;"	v	typeref:typename:uint8_t	file:
+rxc	./pcm.h	/^    uint32_t rxc;$/;"	m	struct:__anon4e7bd5980108	typeref:typename:uint32_t
+set	./gpio.h	/^    uint32_t set[2];                             \/\/ GPIO Pin Output Set$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t[2]
+set_driver_mode	./ws2811.c	/^static int set_driver_mode(ws2811_t *ws2811, int gpionum)$/;"	f	typeref:typename:int	file:
+setup_handlers	./main.c	/^static void setup_handlers(void)$/;"	f	typeref:typename:void	file:
+setup_pcm	./ws2811.c	/^static int setup_pcm(ws2811_t *ws2811)$/;"	f	typeref:typename:int	file:
+setup_pwm	./ws2811.c	/^static int setup_pwm(ws2811_t *ws2811)$/;"	f	typeref:typename:int	file:
+size	./ws2811.c	/^    unsigned size;          \/* Size of allocation *\/$/;"	m	struct:videocore_mbox	typeref:typename:unsigned	file:
+source_ad	./dma.h	/^    uint32_t source_ad;$/;"	m	struct:__anon4da7f84a0108	typeref:typename:uint32_t
+source_ad	./dma.h	/^    uint32_t source_ad;$/;"	m	struct:__anon4da7f84a0208	typeref:typename:uint32_t
+spi_fd	./ws2811.c	/^    int spi_fd;$/;"	m	struct:ws2811_device	typeref:typename:int	file:
+spi_init	./ws2811.c	/^static ws2811_return_t spi_init(ws2811_t *ws2811)$/;"	f	typeref:typename:ws2811_return_t	file:
+spi_transfer	./ws2811.c	/^static ws2811_return_t spi_transfer(ws2811_t *ws2811)$/;"	f	typeref:typename:ws2811_return_t	file:
+sta	./pwm.h	/^    uint32_t sta;$/;"	m	struct:__anon4e86cd2c0108	typeref:typename:uint32_t
+stop_pcm	./ws2811.c	/^static void stop_pcm(ws2811_t *ws2811)$/;"	f	typeref:typename:void	file:
+stop_pwm	./ws2811.c	/^static void stop_pwm(ws2811_t *ws2811)$/;"	f	typeref:typename:void	file:
+stride	./dma.h	/^    uint32_t stride;$/;"	m	struct:__anon4da7f84a0108	typeref:typename:uint32_t
+stride	./dma.h	/^    uint32_t stride;$/;"	m	struct:__anon4da7f84a0208	typeref:typename:uint32_t
+strip_type	./ws2811.h	/^    int strip_type;                              \/\/< Strip color layout -- one of WS2811_STRIP/;"	m	struct:ws2811_channel_t	typeref:typename:int
+test	./gpio.h	/^    uint32_t test;$/;"	m	struct:__anon09e235670108	typeref:typename:uint32_t
+ti	./dma.h	/^    uint32_t ti;$/;"	m	struct:__anon4da7f84a0108	typeref:typename:uint32_t
+ti	./dma.h	/^    uint32_t ti;$/;"	m	struct:__anon4da7f84a0208	typeref:typename:uint32_t
+txc	./pcm.h	/^    uint32_t txc;$/;"	m	struct:__anon4e7bd5980108	typeref:typename:uint32_t
+txfr_len	./dma.h	/^    uint32_t txfr_len;$/;"	m	struct:__anon4da7f84a0108	typeref:typename:uint32_t
+txfr_len	./dma.h	/^    uint32_t txfr_len;$/;"	m	struct:__anon4da7f84a0208	typeref:typename:uint32_t
+type	./rpihw.h	/^    uint32_t type;$/;"	m	struct:__anon94e6d7620108	typeref:typename:uint32_t
+unmap_registers	./ws2811.c	/^static void unmap_registers(ws2811_t *ws2811)$/;"	f	typeref:typename:void	file:
+unmapmem	./mailbox.c	/^void *unmapmem(void *addr, uint32_t size) {$/;"	f	typeref:typename:void *
+videocore_base	./rpihw.h	/^    uint32_t videocore_base;$/;"	m	struct:__anon94e6d7620108	typeref:typename:uint32_t
+videocore_mbox	./ws2811.c	/^typedef struct videocore_mbox {$/;"	s	file:
+videocore_mbox_t	./ws2811.c	/^} videocore_mbox_t;$/;"	t	typeref:struct:videocore_mbox	file:
+virt_addr	./ws2811.c	/^    uint8_t *virt_addr;     \/* From mapmem() *\/$/;"	m	struct:videocore_mbox	typeref:typename:uint8_t *	file:
+width	./main.c	/^int width = WIDTH;$/;"	v	typeref:typename:int
+ws2811_channel_t	./ws2811.h	/^typedef struct ws2811_channel_t$/;"	s
+ws2811_channel_t	./ws2811.h	/^} ws2811_channel_t;$/;"	t	typeref:struct:ws2811_channel_t
+ws2811_cleanup	./ws2811.c	/^void ws2811_cleanup(ws2811_t *ws2811)$/;"	f	typeref:typename:void
+ws2811_device	./ws2811.c	/^typedef struct ws2811_device$/;"	s	file:
+ws2811_device_t	./ws2811.c	/^} ws2811_device_t;$/;"	t	typeref:struct:ws2811_device	file:
+ws2811_fini	./ws2811.c	/^void ws2811_fini(ws2811_t *ws2811)$/;"	f	typeref:typename:void
+ws2811_get_return_t_str	./ws2811.c	/^const char * ws2811_get_return_t_str(const ws2811_return_t state)$/;"	f	typeref:typename:const char *
+ws2811_init	./ws2811.c	/^ws2811_return_t ws2811_init(ws2811_t *ws2811)$/;"	f	typeref:typename:ws2811_return_t
+ws2811_led_t	./ws2811.h	/^typedef uint32_t ws2811_led_t;                   \/\/< 0xWWRRGGBB$/;"	t	typeref:typename:uint32_t
+ws2811_render	./ws2811.c	/^ws2811_return_t  ws2811_render(ws2811_t *ws2811)$/;"	f	typeref:typename:ws2811_return_t
+ws2811_return_t	./ws2811.h	/^} ws2811_return_t;$/;"	t	typeref:enum:__anon3222f2ae0103
+ws2811_set_custom_gamma_factor	./ws2811.c	/^void ws2811_set_custom_gamma_factor(ws2811_t *ws2811, double gamma_factor)$/;"	f	typeref:typename:void
+ws2811_t	./ws2811.h	/^typedef struct ws2811_t$/;"	s
+ws2811_t	./ws2811.h	/^} ws2811_t;$/;"	t	typeref:struct:ws2811_t
+ws2811_wait	./ws2811.c	/^ws2811_return_t ws2811_wait(ws2811_t *ws2811)$/;"	f	typeref:typename:ws2811_return_t
+wshift	./ws2811.h	/^    uint8_t wshift;                              \/\/< White shift value$/;"	m	struct:ws2811_channel_t	typeref:typename:uint8_t

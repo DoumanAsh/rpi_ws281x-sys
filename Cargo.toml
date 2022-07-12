@@ -1,0 +1,24 @@
+[package]
+name = "rpi_ws281x-sys"
+version = "0.1.1"
+edition = "2021"
+repository = "https://github.com/DoumanAsh/rpi_ws281x-sys"
+readme = "README.md"
+license = "BSD-2-Clause"
+keywords = ["ws281x", "rpi", "pi", "raspberry"]
+categories = ["embedded", "hardware-support"]
+description = "Bindings to rpi_ws281x C library"
+include = [
+    "**/*.rs",
+    "**/*.c",
+    "Cargo.toml",
+    "README.md",
+    "LICENSE"
+]
+
+[dependencies.libc]
+version = "0.2"
+default-features = false
+
+[build-dependencies.cc]
+version = "1"

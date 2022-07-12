@@ -1,6 +1,6 @@
 [package]
 name = "rpi_ws281x-sys"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2021"
 repository = "https://github.com/DoumanAsh/rpi_ws281x-sys"
 readme = "README.md"
@@ -11,6 +11,7 @@ description = "Bindings to rpi_ws281x C library"
 include = [
     "**/*.rs",
     "**/*.c",
+    "**/*.h",
     "Cargo.toml",
     "README.md",
     "LICENSE"

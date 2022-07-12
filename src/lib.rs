@@ -139,6 +139,32 @@ pub enum ws2811_return_t {
     WS2811_ERROR_SPI_TRANSFER = -14,
 }
 
+impl ws2811_return_t {
+    #[inline]
+    ///Gets textual representation of error.
+    ///
+    ///Returns empty string on encoding error.
+    pub fn as_str(self) -> &'static str {
+        let bytes = unsafe {
+            let c_str = ws2811_get_return_t_str(self);
+            let len = libc::strlen(c_str);
+            core::slice::from_raw_parts(c_str as *const u8, len as usize)
+        };
+
+        match core::str::from_utf8(bytes) {
+            Ok(result) => result,
+            Err(_) => "",
+        }
+    }
+}
+
+impl core::fmt::Display for ws2811_return_t {
+    #[inline(always)]
+    fn fmt(&self, fmt: &mut core::fmt::Formatter) -> core::fmt::Result {
+        fmt.write_str(self.as_str())
+    }
+}
+
 extern "C" {
     ///Allocate and initialize memory, buffers, pages, PWM, DMA, and GPIO.
     ///

@@ -6,7 +6,7 @@
 
 Bindings to [rpi_ws281x](https://github.com/jgarff/rpi_ws281x)
 
-Sources from [1ba8e385708fb7802b09c0177a7ea4293948e25c](https://github.com/jgarff/rpi_ws281x/commit/1ba8e385708fb7802b09c0177a7ea4293948e25c)
+Applies patch from https://github.com/jgarff/rpi_ws281x/issues/499
 
 ### GPIO Usage:
 

@@ -1,9 +1,5 @@
 This is snapshot of commit 1ba8e385708fb7802b09c0177a7ea4293948e25c
 
-## Applied patches
-
-- https://github.com/jgarff/rpi_ws281x/pull/468
-
 ## SPI consideration
 
 Consider setting DLEN to 2
